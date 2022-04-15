@@ -1,0 +1,1 @@
+New-Item -Path 'c:\Users\student\Desktop\pat.txt' -ItemType File
